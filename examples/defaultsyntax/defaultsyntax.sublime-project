@@ -1,0 +1,11 @@
+{
+	"folders":
+	[
+		{
+			"path": "./"
+		}
+	],
+	"settings": {
+		"default_syntax": "Packages/Python/python.sublime-syntax"
+	}
+}
