@@ -21,10 +21,9 @@
 
 )
 ```
-[https://www.sublimetext.com/docs/3/](Official Sublime Text Documenation)
+
 ## Documentation / Reference
 - Sublime Text
-<<<<<<< HEAD
 	- [Official Sublime Text Documenation](https://www.sublimetext.com/docs/3/)
 	- [Sublime Text Unofficial Documentation](http://docs.sublimetext.info/en/latest/)
 - RegEx
@@ -32,14 +31,10 @@
 - Emmet
 	- [Documenation](https://docs.emmet.io/)
 	- [Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
-=======
-	* [https://www.sublimetext.com/docs/3/](Official Sublime Text Documenation)
-	* [http://docs.sublimetext.info/en/latest/](Sublime Text Unofficial Documentation)
 - RegEx
 	* [https://regex101.com/](https://regex101.com/) *NOTE:* Make sure to use the PRCE engine as it's the closest to Sublime Text's custom one.
 - Emmet
 	* [https://docs.emmet.io/](Documenation)
 	* [https://docs.emmet.io/cheat-sheet/](Cheat Sheet)
->>>>>>> origin/master
 - Text Pastry
 	* https://github.com/duydao/Text-Pastry
