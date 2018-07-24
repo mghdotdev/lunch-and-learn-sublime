@@ -24,12 +24,12 @@
 
 ## Documentation / Reference
 - Sublime Text
-	- [https://www.sublimetext.com/docs/3/](Official Sublime Text Documenation)
-	- [http://docs.sublimetext.info/en/latest/](Sublime Text Unofficial Documentation)
+	* [https://www.sublimetext.com/docs/3/](Official Sublime Text Documenation)
+	* [http://docs.sublimetext.info/en/latest/](Sublime Text Unofficial Documentation)
 - RegEx
-	- [https://regex101.com/](https://regex101.com/) *NOTE:* Make sure to use the PRCE engine as it's the closest to Sublime Text's custom one.
+	* [https://regex101.com/](https://regex101.com/) *NOTE:* Make sure to use the PRCE engine as it's the closest to Sublime Text's custom one.
 - Emmet
-	- [https://docs.emmet.io/](Documenation)
-	- [https://docs.emmet.io/cheat-sheet/](Cheat Sheet)
+	* [https://docs.emmet.io/](Documenation)
+	* [https://docs.emmet.io/cheat-sheet/](Cheat Sheet)
 - Text Pastry
-	- https://github.com/duydao/Text-Pastry
+	* https://github.com/duydao/Text-Pastry
