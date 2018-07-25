@@ -29,7 +29,7 @@
 - RegEx
 	- https://regex101.com/ *NOTE:* Make sure to use the PRCE engine as it's the closest to Sublime Text's custom one.
 - Emmet
-	- [Documenation](https://docs.emmet.io/)
-	- [Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
+	- [Emmet Documenation](https://docs.emmet.io/)
+	- [Emmet Expression Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 - Text Pastry
 	* https://github.com/duydao/Text-Pastry

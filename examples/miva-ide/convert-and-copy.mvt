@@ -1,0 +1,22 @@
+<mvt:comment>
+
+	1) split by comma
+
+	2) move the `eol:crlf` variable to a new line
+
+	3) highlight all (except the `eol:crlf` variable) and split into new lines
+
+	4) execute the mvt convert and copy command
+
+	5) complete the `mvt:eval` snippet
+
+	6) autcomplete the `miva_csv_encode` function
+
+	7) paste the converted variables
+
+	8) tab to the next parameter and type a comma contained within single quotes
+	
+
+</mvt:comment>
+
+&mvt:record:code;,&mvt:record:name;,&mvt:record:sku;,&mvt:record:price;,&mvt:record:cost;,&mvt:record:weight;,&mvt:record:descrip;,&mvt:record:active;,&mvt:record:taxable;,&mvt:record:url;,&mvt:record:canonical_category;,&mvt:record:canonical_uri;,&mvt:record:inventory;&mvt:eol:crlf;
