@@ -1,12 +1,33 @@
 # Lunch & Learn - Sublime Text
 
 ## Plugins
+### Syntax Extensions
 - Miva IDE
+- ApatcheConf
+- Dotfiles Syntax Highlighting
+- PlainTasks
+- Babel (js)
+
+### Linting
+- SublimeLinter
+- SublimeLinter-contrib-htmlhint
+- SublimeLinter-contrib-csslint
+- SublimeLinter-contrib-eslint
+- SublimeLinter-contrib-json
+
+### Utilities
 - DefaultSyntax (installed manually)
 - Emmet
 - Text Pastry
 - Rename Buffer
 - Tabr
+- Hasher
+- BracketHighlighter
+- Color Highlighter
+- GitGutter
+- Trimmer
+- URLEncode
+- View in Browser
 
 ## RegEx Searching
 ```
