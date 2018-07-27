@@ -1,21 +1,21 @@
 # Lunch & Learn - Sublime Text
 
 ## Plugins
-### Syntax Extensions
+#### Syntax Extensions
 - Miva IDE
 - ApatcheConf
 - Dotfiles Syntax Highlighting
 - PlainTasks
 - Babel (js)
 
-### Linting
+#### Linting
 - SublimeLinter
 - SublimeLinter-contrib-htmlhint
 - SublimeLinter-contrib-csslint
 - SublimeLinter-contrib-eslint
 - SublimeLinter-contrib-json
 
-### Utilities
+#### Utilities
 - DefaultSyntax (installed manually)
 - Emmet
 - Text Pastry
