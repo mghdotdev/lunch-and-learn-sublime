@@ -1,5 +1,9 @@
+/* Default Mac Installation */
 {
 	"cmd": ["/usr/local/bin/node", "$file"],
 	"file_regex": "js$",
 	"selector": "source.js"
 }
+
+/* PC */
+/* replace the path with the output of the `where node` command */

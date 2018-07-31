@@ -1,0 +1,14 @@
+/* Mac */
+{
+	"cmd": ["open", "-a", "Google Chrome", "$file"],
+	"file_regex": "html$",
+	"selector": "text.html"
+}
+
+
+/* PC */
+/*{
+	"cmd": ["start", "chrome", "$file"],
+	"file_regex": "html$",
+	"selector": "text.html"
+}*/
