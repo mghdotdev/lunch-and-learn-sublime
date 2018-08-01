@@ -1,0 +1,7 @@
+<mvt:assign name="l.settings:foo" value="'bar'" />
+<mvt:assign name="g.Custom_Variable" value="'Hello'" />
+
+
+<mvt:if expr="l.referenced NE ''">
+	<mvt:exit />
+</mvt:if>
