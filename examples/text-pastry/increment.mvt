@@ -11,17 +11,4 @@
 
 </mvt:comment>
 
-<mvt:item name="readytheme" param="image( 'hero-image-XXX' )" />
-<mvt:item name="readytheme" param="image( 'hero-image-XXX' )" />
-<mvt:item name="readytheme" param="image( 'hero-image-XXX' )" />
-<mvt:item name="readytheme" param="image( 'hero-image-XXX' )" />
-<mvt:item name="readytheme" param="image( 'hero-image-XXX' )" />
-<mvt:item name="readytheme" param="image( 'hero-image-XXX' )" />
-<mvt:item name="readytheme" param="image( 'hero-image-XXX' )" />
-<mvt:item name="readytheme" param="image( 'hero-image-XXX' )" />
-<mvt:item name="readytheme" param="image( 'hero-image-XXX' )" />
-<mvt:item name="readytheme" param="image( 'hero-image-XXX' )" />
-<mvt:item name="readytheme" param="image( 'hero-image-XXX' )" />
-<mvt:item name="readytheme" param="image( 'hero-image-XXX' )" />
-<mvt:item name="readytheme" param="image( 'hero-image-XXX' )" />
-<mvt:item name="readytheme" param="image( 'hero-image-XXX' )" />
+<mvt:item name="readytheme" param="image( 'hero-image-1' )" />

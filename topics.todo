@@ -1,0 +1,26 @@
+Basic Sublime Features:
+	❍ Command Palette
+	❍ Projects
+	❍ User folder
+	❍ Multi line editing
+
+--- ✄ -----------------------
+
+Miva IDE:
+	❍ mvt:do function autocompletion
+	❍ LSK and goto definition
+	❍ dynamic variable autocompletion
+	❍ variable ⇄ entity conversion
+	❍ syntax highlighting
+	❍ default syntax (via DefaultSyntax.py)
+
+--- ✄ -----------------------
+
+Emmet:
+	❍ expand abbreviation
+	❍ css autocompletion + abbreviation
+
+--- ✄ -----------------------
+
+Text Pastry:
+	❍	multi-line incrementing
