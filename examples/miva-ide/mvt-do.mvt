@@ -1,6 +1,8 @@
 <mvt:comment>
 
-	Empty tag example
+	Search by function across entire set
+
+		search for product
 
 </mvt:comment>
 <mvt:do file="" name="l.success" value="" />
@@ -8,15 +10,9 @@
 
 <mvt:comment>
 
-	Search within file example
+	Search by function within specific file
+
+		search for product
 
 </mvt:comment>
-<mvt:do file="g.Module_Library_DB" name="l.success" value="" />
-
-
-<mvt:comment>
-
-	Mivascript function within Merchant function example
-
-</mvt:comment>
-<mvt:do file="g.Module_Feature_TUI_UT" name="l.success" value="CommonComponentFields_Initialize_Product_Discounts_Runtime( l.settings:products, miva_array_elements( l.settings:products ) )" />
+<mvt:do file="g.Module_Feature_PRV_AD" name="l.success" value="" />
