@@ -32,55 +32,25 @@
 
 |Group|Command|Mac|PC|
 |---|---|---|---|
+|Menus||||
+||Quick Switch Project|<kbd>Cmd</kbd>+<kbd>Ctrl</kbd>+<kbd>P</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>P</kbd>|
+||Command Pallete|<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>|<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>|
+||Completions List Popup|<kbd>Ctrl</kbd>+<kbd>Space</kbd>|<kbd>Ctrl</kbd>+<kbd>Space</kbd>|
+|Goto||||
+||Goto Anything|<kbd>Cmd</kbd>+<kbd>P</kbd>|<kbd>Ctrl</kbd>+<kbd>P</kbd>|
+||Goto Symbol|<kbd>Cmd</kbd>+<kbd>R</kbd>|<kbd>Ctrl</kbd>+<kbd>R</kbd>|
 |Selection||||
-|---|---|---|---|
 ||Split into Lines|<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd>|<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd>|
-
-- Selection
-	- Split into Lines
-		- Mac: <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd>
-		- PC: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd>
-	- Expand Selection to Line
-		- Mac: <kbd>Cmd</kbd>+<kbd>L</kbd>
-		- PC: <kbd>Ctrl</kbd>+<kbd>L</kbd>
-	- Expand Selection to Word
-		- Mac: <kbd>Cmd</kbd>+<kbd>D</kbd>
-		- PC: <kbd>Ctrl</kbd>+<kbd>D</kbd>
-- Menus
-	- Quick Switch Project
-		- Mac: <kbd>Cmd</kbd>+<kbd>Ctrl</kbd>+<kbd>P</kbd>
-		- PC: <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>P</kbd>
-	- Command Pallete
-		- Mac: <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
-		- PC: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
-	- Completions List Popup
-		- Mac: <kbd>Ctrl</kbd>+<kbd>Space</kbd>
-		- PC: <kbd>Ctrl</kbd>+<kbd>Space</kbd>
-- Goto
-	- Goto Anything
-		- Mac: <kbd>Cmd</kbd>+<kbd>P</kbd>
-		- PC: <kbd>Ctrl</kbd>+<kbd>P</kbd>
-	- Goto Symbol
-		- Mac: <kbd>Cmd</kbd>+<kbd>R</kbd>
-		- PC: <kbd>Ctrl</kbd>+<kbd>R</kbd>
-- Utilities
-	- Spell Check
-		- Mac: F6 
-		- PC: F6
-- Edit
-	- Toggle Comment
-		- Mac: <kbd>Cmd</kbd>+<kbd>/</kbd>
-		- PC: <kbd>Ctrl</kbd>+<kbd>/</kbd>
-	- Toggle Block Comment
-		- Mac: <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>/</kbd>
-		- PC: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>/</kbd>
-	- Join Lines
-		- Mac: <kbd>Cmd</kbd>+<kbd>J</kbd>
-		- PC: <kbd>Ctrl</kbd>+<kbd>J</kbd>
-- Miva IDE
-	- Convert & Copy
-		- Mac: <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd>
-		- PC: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd>
+||Expand Selection to Line|<kbd>Cmd</kbd>+<kbd>L</kbd>|<kbd>Ctrl</kbd>+<kbd>L</kbd>|
+||Expand Selection to Word|<kbd>Cmd</kbd>+<kbd>D</kbd>|<kbd>Ctrl</kbd>+<kbd>D</kbd>|
+|Edit||||
+||Toggle Comment|<kbd>Cmd</kbd>+<kbd>/</kbd>|<kbd>Ctrl</kbd>+<kbd>/</kbd>|
+||Toggle Block Comment|<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>/</kbd>|<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>/</kbd>|
+||Join Lines|<kbd>Cmd</kbd>+<kbd>J</kbd>|<kbd>Ctrl</kbd>+<kbd>J</kbd>|
+|Utilities||||
+||Toggle Spell Check|<kbd>F5</kbd>|<kbd>F5</kbd>|
+|Miva IDE||||
+||Convert & Copy|<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd>|<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd>|
 
 ## Documentation / Reference
 - Sublime Text
