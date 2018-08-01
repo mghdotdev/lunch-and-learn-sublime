@@ -54,12 +54,12 @@
 
 ## Documentation / Reference
 - Sublime Text
-	- [Official Sublime Text Documenation](https://www.sublimetext.com/docs/3/)
+	- [Official Sublime Text Documentation](https://www.sublimetext.com/docs/3/)
 	- [Sublime Text Unofficial Documentation](http://docs.sublimetext.info/en/latest/)
 - RegEx
 	- https://regex101.com/ *NOTE:* Make sure to use the PRCE engine as it's the closest to Sublime Text's custom one.
 - Emmet
-	- [Emmet Documenation](https://docs.emmet.io/)
+	- [Emmet Documentation](https://docs.emmet.io/)
 	- [Emmet Expression Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 - Text Pastry
 	* https://github.com/duydao/Text-Pastry
