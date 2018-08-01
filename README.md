@@ -37,7 +37,7 @@
 	- PC: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd>
 - Quick Switch Project
 	- Mac: <kbd>Cmd</kbd>+<kbd>Ctrl</kbd>+<kbd>P</kbd> 
-	- PC: 
+	- PC: <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>P</kbd> 
 - Command Pallete
 	- Mac: <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> 
 	- PC: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
@@ -56,6 +56,10 @@
 - Toggle Block Comment
 	- Mac: <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>/</kbd> 
 	- PC: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>/</kbd>
+- Miva IDE
+	- Convert & Copy
+		- Mac: <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd> 
+		- PC: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd>
 
 ## Documentation / Reference
 - Sublime Text
