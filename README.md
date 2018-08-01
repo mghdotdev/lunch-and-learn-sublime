@@ -30,11 +30,11 @@
 
 ## Common Commands/Short Cuts
 
-|Command/Group|Mac|PC|
-|---|---|---|
-|Selection|||
-|---|---|---|
-|Split into Lines|<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd>|<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd>|
+|Group|Command|Mac|PC|
+|---|---|---|---|
+|Selection||||
+|---|---|---|---|
+||Split into Lines|<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd>|<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd>|
 
 - Selection
 	- Split into Lines
