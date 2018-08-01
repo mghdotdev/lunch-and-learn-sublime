@@ -1,10 +1,10 @@
 <mvt:comment>
 
-	1) Multi line select the unique placeholder (XXX)
+	YYY) Multi line select the unique placeholder (XXX)
 
-	2) Open the text pastry command line (Mac: Cmd+Alt+N)(PC: )
+	YYY) Open the text pastry command line (Mac: Cmd+Alt+N)(PC: )
 
-	3) Type `1` (without backticks) into the console and hit enter
+	YYY) Type `1` (without backticks) into the console and hit enter
 
 	Documentation:
 		https://github.com/duydao/Text-Pastry

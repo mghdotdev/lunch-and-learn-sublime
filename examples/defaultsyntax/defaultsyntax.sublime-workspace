@@ -1,0 +1,1058 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"aut",
+				"auth_type"
+			],
+			[
+				"clie",
+				"client_id"
+			],
+			[
+				"un",
+				"unique_functions ([])"
+			],
+			[
+				"mvtdeb",
+				"mvt:debug\tmiva-debug"
+			],
+			[
+				"curr",
+				"CurrencyModule_AddFormatting\tFunc"
+			],
+			[
+				"cur",
+				"CurrencyModule_AddFormatting\tFunc"
+			],
+			[
+				"func",
+				"functions ([])"
+			],
+			[
+				"in",
+				"ignored_directories ([])"
+			],
+			[
+				"Mo",
+				"Module_Library_DB"
+			],
+			[
+				"Module_Libr",
+				"Module_Library_Utilities"
+			],
+			[
+				"co",
+				"command_name"
+			],
+			[
+				"load",
+				"ProductCustomFieldList_Load\tFunc"
+			],
+			[
+				"att",
+				"attribute_file"
+			],
+			[
+				"lef",
+				"left_angle_pos"
+			],
+			[
+				"line",
+				"line_head"
+			],
+			[
+				"proload",
+				"Product_Load_ID\tFunc"
+			],
+			[
+				"at",
+				"attribute_file"
+			],
+			[
+				"p",
+				"parameters"
+			],
+			[
+				"par",
+				"parameters"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"value",
+				"value_completions"
+			],
+			[
+				"file",
+				"file_completions"
+			],
+			[
+				"sad",
+				"g.Module_Feature_STA_DB"
+			],
+			[
+				"variantpartload",
+				"ProductVariantPartList_Load_Variant"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"miva",
+				"miva_openlog"
+			],
+			[
+				"module_root",
+				"g.Module_Root $ 'json.mvc'"
+			],
+			[
+				"wsh",
+				"g.Module_Feature_WSH_DB"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"val",
+				"validateForm (fn/0)"
+			],
+			[
+				"param",
+				"parameters"
+			],
+			[
+				"path",
+				"pathinfo (?)"
+			],
+			[
+				"m",
+				"Mv__TO__JSON"
+			],
+			[
+				"varname",
+				"varname_len"
+			],
+			[
+				"globa",
+				"global_match"
+			],
+			[
+				"var",
+				"variableName"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"sfnt",
+				"sfnt_slider_"
+			],
+			[
+				"large",
+				"@large\t960px"
+			],
+			[
+				"comma",
+				"commando"
+			],
+			[
+				"res",
+				"responseMessage (?)"
+			],
+			[
+				"d",
+				"decodeURIComponent (fn/1)"
+			],
+			[
+				"rege",
+				"regex"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"first",
+				"firstOption"
+			],
+			[
+				"swat",
+				"swatch_info"
+			],
+			[
+				"miva_array_inser",
+				"miva_array_insert_var"
+			],
+			[
+				"pass",
+				"passed_variant_id"
+			],
+			[
+				"get",
+				"getParameterByName"
+			],
+			[
+				"vo",
+				"volumePricingChange"
+			],
+			[
+				"File",
+				"File_Name"
+			],
+			[
+				"miva_out",
+				"miva_output_header"
+			],
+			[
+				"variant",
+				"variant_url"
+			],
+			[
+				"prod",
+				"products"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 169.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ssregex",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"removepack",
+				"Package Control: Remove Package"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"tabr",
+				"tabr: Create Tab Order"
+			],
+			[
+				"listpackages",
+				"Package Control: List Packages"
+			],
+			[
+				"instalpack",
+				"Package Control: Install Package"
+			],
+			[
+				"lines",
+				"Lines → CSV"
+			],
+			[
+				"ssmvt",
+				"Set Syntax: MVT"
+			],
+			[
+				"mvtconver",
+				"MVT: Convert and Copy"
+			],
+			[
+				"sssyblimeb",
+				"Set Syntax: Sublime Text Build System (JSON)"
+			],
+			[
+				"ssbuilds",
+				"Set Syntax: Sublime Text Build System (JSON)"
+			],
+			[
+				"refcss",
+				"Emmet: Reflect CSS Value"
+			],
+			[
+				"viewpack",
+				"View Package File"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"ssmd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ssgit",
+				"Set Syntax: Git Ignore"
+			],
+			[
+				"testdefau",
+				"ChannelRepositoryTools: Test Default Channel"
+			],
+			[
+				"installpack",
+				"Package Control: Install Package"
+			],
+			[
+				"ssmiva",
+				"Set Syntax: Miva Script"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remopackage",
+				"Package Control: Remove Package"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"removere",
+				"Package Control: Remove Repository"
+			],
+			[
+				"remorep",
+				"Package Control: Remove Repository"
+			],
+			[
+				"addre",
+				"Package Control: Add Repository"
+			],
+			[
+				"addfolder",
+				"Project: Add Folder"
+			],
+			[
+				"mivado\t",
+				"Snippet: miva-readproductcode"
+			],
+			[
+				"remopack",
+				"Package Control: Remove Package"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"removerep",
+				"Package Control: Remove Repository"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"openres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"extract",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"emmet",
+				"Emmet: Balance (inward)"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"apihelpeview",
+				"Sublime Text API Helper: sublime.View.*"
+			],
+			[
+				"apihelperre",
+				"Sublime Text API Helper: sublime.Region.*"
+			],
+			[
+				"nextat",
+				"BracketHighlighter: Select Next Attribute (right)"
+			],
+			[
+				"nextattr",
+				"BracketHighlighter: Select Next Attribute (left)"
+			],
+			[
+				"next",
+				"BracketHighlighter: Select Next Attribute (right)"
+			],
+			[
+				"nextatt",
+				"BracketHighlighter: Select Next Attribute (left)"
+			],
+			[
+				"brackethighlighternextatt",
+				"BracketHighlighter: Select Next Attribute (left)"
+			],
+			[
+				"brackethighlighter",
+				"BracketHighlighter: Select Next Attribute (left)"
+			],
+			[
+				"brackethightju",
+				"BracketHighlighter: Jump to Left Bracket"
+			],
+			[
+				"selecttagname",
+				"BracketHighlighter: Select Tag Name (closing and opening)"
+			],
+			[
+				"brackethigh",
+				"BracketHighlighter: Select Tag Name (closing and opening)"
+			],
+			[
+				"brackethighlighternext",
+				"BracketHighlighter: Select Next Attribute (right)"
+			],
+			[
+				"installpackag",
+				"Package Control: Install Package"
+			],
+			[
+				"remp",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"extracp",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"ssxsl",
+				"Set Syntax: XSL"
+			],
+			[
+				"extractpack",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"instllpack",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"addrep",
+				"Package Control: Add Repository"
+			],
+			[
+				"remopacka",
+				"Package Control: Remove Package"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"ssmv",
+				"Set Syntax: MVT"
+			],
+			[
+				"mvt:conver",
+				"MVT: Convert Entity to Variable"
+			],
+			[
+				"mvt",
+				"MVT: Convert Entity to Variable"
+			],
+			[
+				"snakecas",
+				"Convert Case: snake_case"
+			],
+			[
+				"sssublimcm",
+				"Set Syntax: Sublime Text Commands"
+			],
+			[
+				"aaapackagenew",
+				"z:AAAPackageDev: New Plugin"
+			],
+			[
+				"convertsnake",
+				"Convert Case: snake_case"
+			],
+			[
+				"aligntab",
+				"AlignTab"
+			],
+			[
+				"installpackage",
+				"Package Control: Install Package"
+			],
+			[
+				"rempackage",
+				"Package Control: Remove Package"
+			],
+			[
+				"alignment",
+				"Alignment: Execute"
+			],
+			[
+				"miva-pro",
+				"Snippet: miva-readproductcode"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"remotag",
+				"Emmet: Remove Tag"
+			],
+			[
+				"remopckage",
+				"Package Control: Remove Package"
+			],
+			[
+				"channelRep",
+				"ChannelRepositoryTools: Test Remote Repository"
+			],
+			[
+				"viewer",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"terminal",
+				"Terminal: Open in project folder"
+			],
+			[
+				"scss",
+				"SCSS: Compile File"
+			],
+			[
+				"build",
+				"Build: New Build System"
+			],
+			[
+				"mam",
+				"MAMP: Start Server"
+			],
+			[
+				"commando",
+				"Commando: Test"
+			],
+			[
+				"mampstop",
+				"MAMP: Stop Server"
+			],
+			[
+				"mampstar",
+				"MAMP: Start Server"
+			],
+			[
+				"mampstart",
+				"MAMP: Start Server"
+			],
+			[
+				"openre",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"SSVMT",
+				"Set Syntax: MVT"
+			],
+			[
+				"repo",
+				"Package Control: Remove Repository"
+			],
+			[
+				"remopc",
+				"Package Control: Remove Package"
+			],
+			[
+				"create",
+				"Gist: Create Private Gist"
+			],
+			[
+				"gistcreate",
+				"Gist: Create Private Gist"
+			],
+			[
+				"viewin",
+				"View In Browser"
+			],
+			[
+				"sspla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"listpakc",
+				"Package Control: List Packages"
+			],
+			[
+				"listpack",
+				"Package Control: List Packages"
+			],
+			[
+				"close ",
+				"Project: Close"
+			],
+			[
+				"ope",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packagecontrol:",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"uppercase",
+				"Convert Case: Upper Case"
+			]
+		],
+		"width": 700.0
+	},
+	"console":
+	{
+		"height": 178.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(False",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.run_command('mv2json')",
+			"sublime.Window.project_data()",
+			"sublime.Window",
+			"view.run_command('mvt_variable_convert_to_entity');",
+			"mvt_variable_convert_to_entity()",
+			"mvt_variable_convert_to_entity",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mhegler/Documents/GitHub/lunch-and-learn-sublime/examples/defaultsyntax"
+	],
+	"file_history":
+	[
+		"/Users/mhegler/Documents/GitHub/lunch-and-learn-sublime/examples/defaultsyntax/defaultsyntax.sublime-project",
+		"/Users/mhegler/Documents/GitHub/lunch-and-learn-sublime/examples/miva-ide/GetBetweenPattern.re",
+		"/Users/mhegler/Documents/GitHub/lunch-and-learn-sublime/examples/build-systems/hello-world.html",
+		"/Users/mhegler/Documents/GitHub/lunch-and-learn-sublime/examples/build-systems/Chrome.sublime-build",
+		"/Users/mhegler/Documents/GitHub/lunch-and-learn-sublime/examples/miva-ide/convert-and-copy.mvt",
+		"/Users/mhegler/Documents/GitHub/lunch-and-learn-sublime/examples/build-systems/NodeJS.sublime-build",
+		"/Users/mhegler/Documents/GitHub/lunch-and-learn-sublime/examples/build-systems/slope-y-int.js",
+		"/Users/mhegler/Desktop/slope-y-intercept.js",
+		"/Users/mhegler/Library/Application Support/Sublime Text 3/Packages/Text Pastry/Default (OSX).sublime-keymap",
+		"/Users/mhegler/Documents/GitHub/lunch-and-learn-sublime/examples/text-pastry/example.mvt",
+		"/Users/mhegler/Documents/GitHub/lunch-and-learn-sublime/examples/build-systems/NodeJS.json",
+		"/Users/mhegler/Documents/GitHub/lunch-and-learn-sublime/examples/emmet/autocomplete.css",
+		"/Users/mhegler/Documents/GitHub/lunch-and-learn-sublime/examples/emmet/demo.html",
+		"/Users/mhegler/Library/Application Support/Sublime Text 3/Packages/User/Build Systems/Node.sublime-build",
+		"/Users/mhegler/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/Users/mhegler/Documents/GitHub/lunch-and-learn-sublime/plugins/DefaultSyntax.py",
+		"/Users/mhegler/Documents/Sublime Projects/Github.sublime-project",
+		"/Users/mhegler/Documents/GitHub/mv2json/lib/toMasterList.js",
+		"/Users/mhegler/Github/mv2json/lib/toMasterList.js",
+		"/Users/mhegler/Github/mv2json/lib/toPipe.js",
+		"/Users/mhegler/Github/mv2json/package.json",
+		"/Users/mhegler/Github/mv2json/lib/mv2json.js",
+		"/Users/mhegler/Github/mv2json/lib/function2pipe.js",
+		"/Users/mhegler/Github/mv2json/lib/json2master_list.js",
+		"/Users/mhegler/Github/mv2json/lib/functions_to_products/package.json",
+		"/Users/mhegler/Github/mv2json/lib/functions_to_products/mv-lsk.json",
+		"/Users/mhegler/Github/mv2json/README.md",
+		"/Users/mhegler/Github/mv2json/.gitignore",
+		"/Users/mhegler/Github/mv2json/LICENSE",
+		"/Users/mhegler/Github/miva-javascript-console/jsconsole.mv",
+		"/Users/mhegler/Github/node-basecamp-classic/lib/index.js",
+		"/Users/mhegler/Github/node-basecamp-classic/test/simple-auth-test.js",
+		"/Users/mhegler/Github/node-basecamp-classic/package.json",
+		"/Users/mhegler/Desktop/nodetest.js",
+		"/Users/mhegler/Library/Application Support/Sublime Text 3/Packages/Miva Template Language (MVT)/mv-lsk.json",
+		"/Users/mhegler/Github/Miva-Template-Language/MVT.sublime-settings",
+		"/Users/mhegler/Desktop/meh.mvt",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Tags/miva-assign.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Customfield/miva-basket-read.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Customfield/miva-basket-write.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Customfield/miva-customfielddebug.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Customfield/miva-readcategorycode.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Customfield/miva-readcategoryid.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Customfield/miva-readcustomerid.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Customfield/miva-readcustomerlogin.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Customfield/miva-readproductcode.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Customfield/miva-readproductid.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Customfield/miva-writecategorycode.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Customfield/miva-writecategoryid.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Customfield/miva-writecustomerid.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Customfield/miva-writecustomerlogin.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Customfield/miva-writeorder.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Customfield/miva-writeproductcode.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Customfield/miva-writeproductid.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Debugging/miva-debug.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Debugging/miva-testuser.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Debugging/miva-testvar.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Other/miva-fileread.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Other/miva-filewrite.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Other/miva-gettoken.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Other/miva-globsub.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Tags/miva-call.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Tags/miva-callcontinue.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Tags/miva-callstop.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Tags/miva-comment.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Tags/miva-do.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Tags/miva-else.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Tags/miva-elseif.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Tags/miva-eval.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Tags/miva-exit.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Tags/miva-foreach.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Tags/miva-foreachcontinue.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Tags/miva-foreachstop.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Tags/miva-if.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Tags/miva-item.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Tags/miva-while.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Tags/miva-whilecontinue.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Tags/miva-whilestop.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-agroup-c.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-agroup-cats.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-agroup-p.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-agroup.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-agrpinsert.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-alsobought.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-attr.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-basket.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-bestseller.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-breadcrumb.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-callurl.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-categorymeta.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-catimage.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-catpages.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-cattreeimage.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-childof.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-clearall.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-concat.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-counter.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-currencyformat.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-custinsert.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-custom.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-customer.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-cxp.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-footer.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-gettoken.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-header.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-import.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-last.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-lasturl.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-logbackin.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-math_add.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-math_divide.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-math_multiply.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-math_subtract.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-mvassign.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-mveval.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-newsubstring.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-nextprevious.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-no_apostrophe.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-padl.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-padr.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-parentcat.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-pastorders.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-pgroup-p.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-pgroup.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-pgrpinsert.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-prodthumb.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-productincategory.sublime-snippet",
+		"/Users/mhegler/Github/SublimeMVT_Snippets/Toolkit/toolkit-productmeta.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "defaultsyntax.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"scss.b",
+				"User/Build Systems/SCSS.sublime-build"
+			],
+			[
+				"build",
+				"User/Build Systems/PHP.sublime-build"
+			],
+			[
+				"commands",
+				"User/Default.sublime-commands"
+			],
+			[
+				"producvariants",
+				"lib/dbeng/productvariants.mv"
+			],
+			[
+				"productvariants",
+				"lib/dbeng/productvariants.mv"
+			],
+			[
+				"variants",
+				"lib/dbeng/productvariants.mv"
+			],
+			[
+				"tui/ut",
+				"features/tui/tui_ut.mv"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packages",
+				"~/Documents/Sublime Projects/Packages.sublime-project"
+			],
+			[
+				"pack",
+				"~/Documents/Sublime Projects/Packages.sublime-project"
+			],
+			[
+				"work",
+				"~/Documents/Sublime Projects/workspace.sublime-project"
+			],
+			[
+				"wor",
+				"~/Documents/Sublime Projects/workspace.sublime-project"
+			],
+			[
+				"packags",
+				"~/Documents/Sublime Projects/Packages.sublime-project"
+			],
+			[
+				"package",
+				"~/Documents/Sublime Projects/Packages.sublime-project"
+			],
+			[
+				"lsk",
+				"~/Documents/Sublime Projects/LSK.sublime-project"
+			],
+			[
+				"sho",
+				"~/Documents/Sublime Projects/ShopMZB.sublime-project"
+			],
+			[
+				"shop",
+				"~/Documents/Sublime Projects/ShopMZB.sublime-project"
+			],
+			[
+				"nhs",
+				"~/Documents/Sublime Projects/NHS.sublime-project"
+			],
+			[
+				"g",
+				"~/Documents/Sublime Projects/Github.sublime-project"
+			],
+			[
+				"poack",
+				"~/Documents/Sublime Projects/Packages.sublime-project"
+			],
+			[
+				"gith",
+				"~/Documents/Sublime Projects/Github.sublime-project"
+			],
+			[
+				"packa",
+				"~/Documents/Sublime Projects/Packages.sublime-project"
+			],
+			[
+				"packaes",
+				"~/Documents/Sublime Projects/Packages.sublime-project"
+			],
+			[
+				"",
+				"~/Documents/Sublime Projects/LSK.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"__unicode__"
+			]
+		],
+		"width": 400.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 326.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

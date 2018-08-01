@@ -28,6 +28,17 @@
 - Trimmer
 - URLEncode
 
+## Common Commands/Short Cuts
+- Expand Selection to Line (Mac: <kbd>Cmd</kbd>+<kbd>L</kbd>)(PC: <kbd>Ctrl</kbd>+<kbd>L</kbd>)
+- Split into Lines (Mac: <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd>)(PC: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd>)
+- Quick Switch Project (Mac: <kbd>Cmd</kbd>+<kbd>Ctrl</kbd>+<kbd>P</kbd>)(PC: )
+- Command Pallete (Mac: <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)(PC: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)
+- Goto Anything (Mac: <kbd>Cmd</kbd>+<kbd>P</kbd>)(PC: <kbd>Ctrl</kbd>+<kbd>P</kbd>)
+- Goto Symbol (Mac: <kbd>Cmd</kbd>+<kbd>R</kbd>)(PC: <kbd>Ctrl</kbd>+<kbd>R</kbd>)
+- Spell Check (Mac: F6)(PC: F6)
+- Toggle Comment (Mac: <kbd>Cmd</kbd>+<kbd>/</kbd>)(PC: <kbd>Ctrl</kbd>+<kbd>/</kbd>)
+- Toggle Block Comment (Mac: <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>/</kbd>)(PC: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>/</kbd>)
+
 ## Documentation / Reference
 - Sublime Text
 	- [Official Sublime Text Documenation](https://www.sublimetext.com/docs/3/)
