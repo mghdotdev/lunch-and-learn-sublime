@@ -29,36 +29,50 @@
 - URLEncode
 
 ## Common Commands/Short Cuts
-- Expand Selection to Line
-	- Mac: <kbd>Cmd</kbd>+<kbd>L</kbd> 
-	- PC: <kbd>Ctrl</kbd>+<kbd>L</kbd>
-- Split into Lines
-	- Mac: <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd> 
-	- PC: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd>
-- Quick Switch Project
-	- Mac: <kbd>Cmd</kbd>+<kbd>Ctrl</kbd>+<kbd>P</kbd> 
-	- PC: <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>P</kbd> 
-- Command Pallete
-	- Mac: <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> 
-	- PC: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
-- Goto Anything
-	- Mac: <kbd>Cmd</kbd>+<kbd>P</kbd> 
-	- PC: <kbd>Ctrl</kbd>+<kbd>P</kbd>
-- Goto Symbol
-	- Mac: <kbd>Cmd</kbd>+<kbd>R</kbd> 
-	- PC: <kbd>Ctrl</kbd>+<kbd>R</kbd>
-- Spell Check
-	- Mac: F6 
-	- PC: F6
-- Toggle Comment
-	- Mac: <kbd>Cmd</kbd>+<kbd>/</kbd> 
-	- PC: <kbd>Ctrl</kbd>+<kbd>/</kbd>
-- Toggle Block Comment
-	- Mac: <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>/</kbd> 
-	- PC: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>/</kbd>
+- Selection
+	- Split into Lines
+		- Mac: <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd>
+		- PC: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd>
+	- Expand Selection to Line
+		- Mac: <kbd>Cmd</kbd>+<kbd>L</kbd>
+		- PC: <kbd>Ctrl</kbd>+<kbd>L</kbd>
+	- Expand Selection to Word
+		- Mac: <kbd>Cmd</kbd>+<kbd>D</kbd>
+		- PC: <kbd>Ctrl</kbd>+<kbd>D</kbd>
+- Menus
+	- Quick Switch Project
+		- Mac: <kbd>Cmd</kbd>+<kbd>Ctrl</kbd>+<kbd>P</kbd>
+		- PC: <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>P</kbd>
+	- Command Pallete
+		- Mac: <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
+		- PC: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
+	- Completions List Popup
+		- Mac: <kbd>Ctrl</kbd>+<kbd>Space</kbd>
+		- PC: <kbd>Ctrl</kbd>+<kbd>Space</kbd>
+- Goto
+	- Goto Anything
+		- Mac: <kbd>Cmd</kbd>+<kbd>P</kbd>
+		- PC: <kbd>Ctrl</kbd>+<kbd>P</kbd>
+	- Goto Symbol
+		- Mac: <kbd>Cmd</kbd>+<kbd>R</kbd>
+		- PC: <kbd>Ctrl</kbd>+<kbd>R</kbd>
+- Utilities
+	- Spell Check
+		- Mac: F6 
+		- PC: F6
+- Edit
+	- Toggle Comment
+		- Mac: <kbd>Cmd</kbd>+<kbd>/</kbd>
+		- PC: <kbd>Ctrl</kbd>+<kbd>/</kbd>
+	- Toggle Block Comment
+		- Mac: <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>/</kbd>
+		- PC: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>/</kbd>
+	- Join Lines
+		- Mac: <kbd>Cmd</kbd>+<kbd>J</kbd>
+		- PC: <kbd>Ctrl</kbd>+<kbd>J</kbd>
 - Miva IDE
 	- Convert & Copy
-		- Mac: <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd> 
+		- Mac: <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd>
 		- PC: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd>
 
 ## Documentation / Reference
