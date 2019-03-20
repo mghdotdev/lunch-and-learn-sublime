@@ -702,7 +702,7 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/mhegler/Documents/GitHub/lunch-and-learn-sublime/examples/defaultsyntax"
+		"/Users/maxhegler/Documents/GitHub/lunch-and-learn-sublime/examples/defaultsyntax"
 	],
 	"file_history":
 	[
@@ -959,9 +959,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "",
+		"last_filter": "launch",
 		"selected_items":
 		[
+			[
+				"launch",
+				"~/Documents/GitHub/lunch-and-learn-sublime/lunch-and-learn.sublime-project"
+			],
 			[
 				"packages",
 				"~/Documents/Sublime Projects/Packages.sublime-project"

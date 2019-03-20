@@ -2,29 +2,30 @@
 
 ## Plugins
 #### Syntax Extensions
-- Miva IDE
 - ApatcheConf
-- Dotfiles Syntax Highlighting
-- PlainTasks
 - Babel (js)
+- Dotfiles Syntax Highlighting
+- Miva IDE
+- PlainTasks
 
 #### Linting
 - SublimeLinter
-- SublimeLinter-contrib-htmlhint
 - SublimeLinter-contrib-csslint
 - SublimeLinter-contrib-eslint
+- SublimeLinter-contrib-htmlhint
 - SublimeLinter-contrib-json
 
 #### Utilities
-- DefaultSyntax (installed manually)
-- Emmet
-- Text Pastry
-- Rename Buffer
-- Tabr
-- Hasher
 - BracketHighlighter
 - Color Highlighter
+- DefaultSyntax (installed manually)
+- Emmet
 - GitGutter
+- Hasher
+- Rename Buffer
+- Tabr
+- Tabs Extra
+- Text Pastry
 - Trimmer
 - URLEncode
 
